@@ -37,3 +37,7 @@ Nextflow:  Paolo Di Tommaso - https://github.com/nextflow-io/nextflow
 Singularity: Singularityware - https://singularity.lbl.gov
 
 MAGeCK: Wei Li / Shirley Liu  - http://mageck.sourceforge.net
+
+
+[![https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg](https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/977)
+Singularity container with mount points for the athena storage unit at Weill Cornell  
